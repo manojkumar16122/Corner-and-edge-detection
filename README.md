@@ -13,21 +13,22 @@ This project demonstrates real-time edge detection using OpenCV in Python. It ut
 **OpenCV:** Library for computer vision and image processing.
 
 **How to Run ?**
-1. Clone the Repository:
+**1. Clone the Repository:**
 
-[git clone <repository_url>
+git clone <repository_url>
 cd edge-detection
-](url)
 
-2. Set Up Virtual Environment:
 
-[python -m venv v_env
+**2. Set Up Virtual Environment:**
+
+python -m venv v_env
 source v_env/bin/activate   # On Windows: v_env\Scripts\activate
-pip install -r requirements.txt](url)
+pip install -r requirements.txt
 
-3. Run the Project:
+**3. Run the Project:**
 
-[python File_name.py](url)
+python Final_demo.py
+
 
 4. Quit the Application:
 
